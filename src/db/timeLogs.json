@@ -1,0 +1,31 @@
+[
+    {
+      "id": "log1",
+      "taskId": "task1",
+      "username": "karuna",
+      "duration": 60,
+      "loggedAt": "2025-06-14T10:30:00Z"
+    },
+    {
+      "id": "log2",
+      "taskId": "task2",
+      "username": "ranijyotsana",
+      "duration": 90,
+      "loggedAt": "2025-06-14T12:45:00Z"
+    },
+    {
+      "id": "log3",
+      "taskId": "task1",
+      "username": "karuna",
+      "duration": 45,
+      "loggedAt": "2025-06-15T14:00:00Z"
+    },
+    {
+      "id": "log4",
+      "taskId": "task3",
+      "username": "ranijyotsana",
+      "duration": 120,
+      "loggedAt": "2025-06-15T16:30:00Z"
+    }
+  ]
+  
