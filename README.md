@@ -68,3 +68,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+developer username :- dev1, password :-dev123
+Manager username :-manager1, Password:-manager123
+when login with manager username you will go on manager dashboard and there you see the chart and log time how much developer spend time on each task also you can add task 
+when login with dev user name you will go on dev dashboard and there you can add edit the task and also ask to close the task and watch time. 
